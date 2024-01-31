@@ -1,3 +1,1 @@
-let url=window.location.href
-alert(url);
-alert(url.length);
+alert(windows.location.href.length);
